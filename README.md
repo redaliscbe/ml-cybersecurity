@@ -1,4 +1,5 @@
-# ml-cybersecurity-labs
+# Course Title :	MACHINE LEARNING FOR CYBER SECURITY
+# Course Code	 :	25MCAIS302
 Machine Learning Cybersecurity Labs
 1.		Perform a time series decomposition of a dataset with seasonal and trend components. 
 2.		Using historical network traffic data, apply time series forecasting methods (like ARIMA or Prophet) to predict potential DDoS attacks. 	
